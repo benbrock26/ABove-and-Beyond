@@ -1,0 +1,1 @@
+Miscellaneous area for documents used for the IoT documents
